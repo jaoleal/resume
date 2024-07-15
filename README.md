@@ -1,4 +1,1 @@
-<object data='./out/preview.pdf' 
-        type='application/pdf' 
-        width='100%' height='700px'>
-</object>
+You can check the resume: [Here](./out/preview.pdf)
