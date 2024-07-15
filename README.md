@@ -1,5 +1,4 @@
-# Resume
-
-My Resume wrote in Typst! 
-
-You can chek the last output here: [resume link](out/preview.pdf)
+<object data='./out/preview.pdf' 
+        type='application/pdf' 
+        width='100%' height='700px'>
+</object>
