@@ -6,22 +6,20 @@
 
 About me:
 
-My affection for programming has begun while finding my
-professional profile; Simple and efficient. I follow this 
-minimalistic paradigm to ensure productivity on daily 
-work and always try to propagate it against co-workers.
-I would say that a serious mistake of mine is only being 
-able to explain and build things that I understand a little
-more than superficially but, to compensate, I learn easily things that I'm focused on. Here some of my history:
+My affection for programming has is anchored in two
+principles: simplicity and efficiency. I follow this
+minimalistic paradigm to ensure productivity on daily
+work and always try to propagate it to my co-workers.
+Below are my professional highlights:
 
-  - *Chaincode CrashCourse and Vinteum*:
-  Chaincode Labs is an educational organization that supports bitcoin. At the time, I was introduced to Vinteum that, similarly as Chaincode, is an organization that supports the bitcoin community in Brazil, my birthplace. After entering Vinteum I started my bitcoin journey and, in a collaboration with chaincode, entered a CrashCourse and became one of the developers that built a strong knowledge and interest in the cryptocurrency area.
+  - *Chaincode and Vinteum*:
+  Chaincode Labs is an educational organization that supports bitcoin. At the time, I was introduced to Vinteum that, similarly as Chaincode, is an organization that supports the bitcoin community in Brazil, my birthplace. After entering Vinteum I started my Bitcoin journey as a developer and built a strong knowledge and interest in cryptography and cryptocurrencies.
 
   - *Summer of Bitcoin*:
-  Summer of Bitcoin, by their words: “a global, online summer internship program focused on introducing university students to bitcoin open-source development and design”. Where more than 35,000 students apply and only few pass, gladly I was one of them. I consider this event one of the most important, if not the most, in my career as a developer, there I was introduced to the Open Source World where I learned how to significantly contribute to any project and locate myself in others code.
+  Summer of Bitcoin is a global, online summer internship program focused on introducing university students to Bitcoin open-source development and design. Each year more than 35,000 students apply and only few pass; gladly I was one of the selected few. I was introduced to the open-source World where I learned how to significantly contribute to any project and locate myself in others code.
 
-  - *Open Source Contributor*:
-  After SoB, I started contributing to Open Source projects related to Bitcoin and Rust; such as Bitcoin Dev Kit, Floresta and rust-bitcoin. All the code used to contribute are in my forks, most of them are pinned on my overview. Highlight to Floresta project for taking most of my time and being the project where most of my open source contributions are.
+  - *Open-Source Contributor*:
+  After the Summer of Bitcoin, I started contributing to open-source projects related to Bitcoin and Rust; such as Bitcoin Dev Kit (BDK), Floresta and rust-bitcoin.
 
   - *Floresta*:
-  Floresta is a full-node built with Rust that, together with Utreexo, make a technology combo that makes it possible to, theoretically, run in a tab of a web-browser. My main contribution to FLoresta was to implement the some lacking consensus rules and produce a test for it all. Take a look of what I wrote about Floresta on my #link("https://joaoleal.pro/tags/floresta/")[Blog]
+  Floresta is a Bitcoin full-node built with Rust that, together with Utreexo, makes it possible to run in a plethora of devices, such as mobile smartphones, single-board computers and even web browsers. My main contribution to Floresta was to implement Bitcoin consensus rules along with robust testing. 
